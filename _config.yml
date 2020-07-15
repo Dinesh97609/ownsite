@@ -1,0 +1,8 @@
+title: Ownsite
+description: ownsite test
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
